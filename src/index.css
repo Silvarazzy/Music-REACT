@@ -5,9 +5,65 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(./IMAGES/pattern-background-desktop.svg);
+  background-size:500rem;
+  
+  
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.Music{
+  margin-top: 5rem;
+  background-color: white;
+  width: 28.20rem;
+  height: 42rem;
+  margin: auto;
+  margin-top: 5rem;
+  border-radius: 10px;
+  
+  
+}
+.flex{
+  margin: auto;
+  width: 23rem;
+  display: flex;
+  justify-content: space-between;
+  height: 7rem;
+  border-radius: 5px;
+  background-color: rgb(250, 245, 255);
+}
+.music{
+  margin-top: 2rem;
+  margin-left: 1rem;
+}
+.Annual{
+  margin-top: 2rem;
+  margin-right: 5.5rem;
+}
+.href{
+  margin-top: 2.5rem;
+  margin-right: 1rem;
+}
+.btn{
+  margin-top: 2rem;
+  width: 23rem;
+  height: 4rem;
+  background-color: blue;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 15px;
+}
+.last{
+  font-weight: bold;
+}
+.img{
+  border-radius: 10px 10px 0px 0px;
+}
+.href{
+  color: rgb(1, 1, 72);
+  font-weight: bold;
 }
